@@ -19,3 +19,24 @@ c:\users\destroyer\documents\visual studio 2015\Projects\Vk\Vk\bin\Debug\AxInter
 c:\users\destroyer\documents\visual studio 2015\Projects\Vk\Vk\obj\Debug\Interop.WMPLib.dll
 c:\users\destroyer\documents\visual studio 2015\Projects\Vk\Vk\obj\Debug\AxInterop.WMPLib.dll
 c:\users\destroyer\documents\visual studio 2015\Projects\Vk\Vk\obj\Debug\Vk.csproj.ResolveComReference.cache
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\Vk.exe.config
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Interop.WMPLib.dll
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Vk.csproj.ResolveComReference.cache
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Vk.exe
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Vk.pdb
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\Vk.exe
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\Vk.pdb
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\HtmlAgilityPack.dll
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\VkNet.dll
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\HtmlAgilityPack.xml
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\VkNet.xml
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\Interop.WMPLib.dll
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Vk.csprojResolveAssemblyReference.cache
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Vk.Form1.resources
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Vk.Properties.Resources.resources
+C:\Users\s24-rp\Desktop\VkMusicPlayer\Vk\Vk\obj\Debug\Vk.csproj.GenerateResource.Cache
